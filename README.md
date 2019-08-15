@@ -1,4 +1,4 @@
-# Xamarin.Forms.Controls.FloatingActionButton
+# Xamarin.Forms.FloatingActionButton
 A custom view to create a FloatingActionButton for both Android and iOS as part of Material Design
 
 That's right, even on iOS!
